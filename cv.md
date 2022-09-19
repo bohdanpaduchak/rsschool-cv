@@ -1,4 +1,4 @@
-## [rsschool-cv][https://github.com/bohdanpaduchak]
+## [rsschool-cv][https://bohdanpaduchak.github.io/rsschool-cv/cv]
 
 ---
 
@@ -18,38 +18,38 @@ I want to learn 'Front-End Development' in **RSSchool!**
 
 ## Code example:
 
-`
+```
 function match(candidate, job) {
-for (const jobSkill of job.skills) {
-if (!matchJobSkill(candidate, jobSkill)) {
-return false;
-}
-}
-return true;
+  for (const jobSkill of job.skills) {
+    if (!matchJobSkill(candidate, jobSkill)) {
+      return false;
+    }
+  }
+  return true;
 }
 
 function matchJobSkill(candidate, jobSkill) {
-for (const candSkill of candidate.skills) {
-if (candSkill.name === jobSkill.name && candSkill.preference === "avoid") {
-return false;
-}
-if (candSkill.preference === "desired") {
-candSkill.experience = candSkill.experience \* 1.5;
-}
-if (!matchExperience(candSkill, jobSkill.idealYears)) {
-return false;
-}
-}
-return true;
+  for (const candSkill of candidate.skills) {
+    if (candSkill.name === jobSkill.name && candSkill.preference === "avoid") {
+      return false;
+    }
+    if (candSkill.preference === "desired") {
+      candSkill.experience = candSkill.experience * 1.5;
+    }
+    if (!matchExperience(candSkill, jobSkill.idealYears)) {
+      return false;
+    }
+  }
+  return true;
 }
 
 function matchExperience(candidate, idealYears) {
-if (candidate.experience >= idealYears) {
-return true;
+  if (candidate.experience >= idealYears) {
+    return true;
+  }
+  return false;
 }
-return false;
-}
-`
+```
 
 ## Work experience:
 
