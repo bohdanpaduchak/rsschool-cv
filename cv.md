@@ -1,22 +1,22 @@
 ## [rsschodcedeol-cv][https://github.com/bohdanpaduchak]
 
-====
+===
 
 # Bohdan Paduchak
 
 ===
 
-### Contacts
+## Contacts
 
 - Discord: BohdanPaduchak#1659
 - E-mail: bohdanpaduchak@gmail.com
 - Tel: +380968134313
 
-### About myself:
+## About myself:
 
 I want to learn 'Front-End Development' in **RSSchool!**
 
-### Code example:
+## Code example:
 
 ```
 function match(candidate, job) {
@@ -52,13 +52,20 @@ function matchExperience(candidate, idealYears) {
 }
 ```
 
-### Work experience:
+## Work experience:
 
 **Nothing yet…**
 
-### Education and courses:
+## Education and courses:
 
-1.Responsive Web Design,https://www.freecodecamp.org/learn/2022/responsive-web-design/
-2.JavaScript Algorithms and Data Structures,https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/
-3.HTML5/ CSS3/ JAVASCRIPT FUNDAMENTALS, SoftServe IT Academy course
+1.Responsive Web Design, https://www.freecodecamp.org/learn/2022/responsive-web-design/.
+
+2.JavaScript Algorithms and Data Structures, https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/.
+
+3.HTML5/ CSS3/ JAVASCRIPT FUNDAMENTALS, SoftServe IT Academy course.
+
 4.ScriptJedi42, sj42.programmingmentor.com
+
+## Language:
+
+English level - A2
