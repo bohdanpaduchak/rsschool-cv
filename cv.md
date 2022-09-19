@@ -1,4 +1,4 @@
-### [rsschool-cv](https://bohdanpaduchak.github.io/rsschool-cv/cv "my CV")
+## [rsschool-cv](https://github.com/bohdanpaduchak "my GitHub")
 
 # Bohdan Paduchak
 
@@ -10,7 +10,7 @@
 
 ### About myself:
 
-I want to learn 'Front-End Development' in **RSSchool!**
+I need more practice in **JS** and **FrontEnd**.
 
 ### Code example:
 
